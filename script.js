@@ -45,11 +45,6 @@ document.addEventListener("DOMContentLoaded", function () {
             currentValue = "ERROR";
             display.value = currentValue;
         }
-
-
       })
-
     }
-
-
   });
